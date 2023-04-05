@@ -1,0 +1,43 @@
+canvas{
+    box-shadow: 0 0 5px black;
+}
+.canvas{
+    margin: 0 auto;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background: rgb(224,255,0);
+    background: linear-gradient(90deg, rgba(224,255,0,1) 0%, rgba(49,146,158,1) 47%, rgba(26,175,50,1) 61%, rgba(135,53,155,1) 82%);
+}
+.wrapper{
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+    font-family: "Arial";
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+.control{
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    font-size: 30px;
+}
+.description{
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:center;
+    font-family: "Arial";
+    font-size: 30px;
+    color: whitesmoke;
+}
